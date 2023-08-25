@@ -1,0 +1,49 @@
+.addVideo{
+    background:linear-gradient(to bottom,rgb(236, 170, 95),rgb(243, 105, 123),rgb(233, 76, 199));
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    translate: 300px;
+}
+.content{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin: 10px ;
+    padding: 20px;
+}
+.cont2{
+
+    background-color: white;
+    justify-content: start;
+    align-items: start;
+    padding: 110px 50px ;
+}
+
+.cont2 h1{
+    padding-top: 10px;
+}
+
+.field label{
+    font-size: 15px;
+    color: gray;
+}
+
+.form input{
+    border: none;
+    border-bottom: 1px solid palevioletred;
+    font-size: 18px;
+    color: black;
+
+
+}
+
+#btn1{
+    background-color: rgb(233, 13, 68);
+  color: whitesmoke;
+    height: 25px;
+    width: 250px;
+    border:none;
+    border-radius: 25px;
+    
+}
